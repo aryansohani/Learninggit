@@ -1,0 +1,8 @@
+so what is git?
+->consider git as a version control system which keeps track of all the updates you make in a project
+
+how git works?
+so there are two thing one is main directory and other is .git folder created by git init 
+git doesnt know which file to track so we basically push the file we want to tarck into staging area of .git folder-> git add Filename.type
+now git can track these files and updates are made using commit and history is stores in commit history using -> git commit "message"
+to get the commit history we use-> git logs
