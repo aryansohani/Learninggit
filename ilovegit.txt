@@ -8,3 +8,6 @@ now git can track these files and updates are made using commit and history is s
 to get the commit history we use-> git logs
 to chnage email user name-> git config --global user.name "your name"
 -> git config --global user.email "your email"
+
+
+now we have seen that with when you have to commit something again you have to put the file in satging area using-> git add file.type
