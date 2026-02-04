@@ -17,3 +17,12 @@ i am creating these new to check -> git diff it provides difference between the 
 
 When you have multiple file to add in git we use -> git add .  (these . means all files)
 when you have to remove file from .git folder we use-> git rm --cached file.type
+
+
+how to connect your local repository to the remote github repo
+-> git init
+->git add .
+->git commit -m "message" //these will create a timestamp
+->git remote add origin https://github.com/aryansohani/Learninggit.git ->these will be there when you create new git repo
+->git branch -M main
+->git push -u origin main
