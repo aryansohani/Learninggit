@@ -42,3 +42,6 @@ existing code
 -> git checkout -b branchname /git switch -b branchname -> use to create and switch to new branch
 
 ->git branch ->shows all available branches
+
+-> to delete a barnch -> git branch -d branchname -> -d=delete
+
