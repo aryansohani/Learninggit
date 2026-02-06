@@ -34,3 +34,11 @@ we have to push the tags into remote repository
 ->git tag -a v1.0 -m "hello"  (-a annotation tagging)
 -> git show v1.0
 -> git push tag
+
+what is branching?
+branching is basically a path or space where you can do experimental code without having tension of
+existing code
+-> git checkout branchname / git switch branchname  ->used to switch branches
+-> git checkout -b branchname /git switch -b branchname -> use to create and switch to new branch
+
+->git branch ->shows all available branches
