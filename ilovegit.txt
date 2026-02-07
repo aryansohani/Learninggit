@@ -62,7 +62,6 @@ these is all about rebase
 
 what is merge conflict?
 basically when we are making changes in main and branch both but on same line and commit it
-
 it causes merge conflict in which we need to choose with what we have to go with 
 baby
 
