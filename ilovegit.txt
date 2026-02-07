@@ -48,3 +48,11 @@ what is merging?
 merging means merging the feature/experimental files into main file
 ->git merge feature1
 
+what is rebase?
+basically git rebase and git merge work in same way that is merging branches in main
+then whats the difference?
+the difference is that git merge provides branches in commit log you can see branch and see it merge
+the rebase on other hand give a clean list like look
+hence 
+if you want clean list - use -> git rebase branchname
+if you want to know about which feature came from where and keep track - use -> git merge branchname
