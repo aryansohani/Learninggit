@@ -65,6 +65,6 @@ basically when we are making changes in main and branch both but on same line an
 it causes merge conflict in which we need to choose with what we have to go with 
 solving these conflicts is by removing what you dont want
 
-
+what is git pull?
 
 
