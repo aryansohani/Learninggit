@@ -56,3 +56,4 @@ the rebase on other hand give a clean list like look
 hence 
 if you want clean list - use -> git rebase branchname
 if you want to know about which feature came from where and keep track - use -> git merge branchname
+these is all about rebase
