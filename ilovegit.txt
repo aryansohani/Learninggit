@@ -44,4 +44,7 @@ existing code
 -> to delete a barnch -> git branch -d branchname -> -d=delete
 -> while deleting the branch you should switch to main first and then delete
 
+what is merging?
+merging means merging the feature/experimental files into main file
+->git merge feature1
 
