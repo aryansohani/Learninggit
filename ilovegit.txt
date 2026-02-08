@@ -80,5 +80,12 @@ what is git time travel?
 -> git checkout -b branchname
 -> now you can work on these branch and commit and also push to remote repo and it will be shown in the commit you made previous
 
+what is git fork?
+-> consider you are in microsoft vscode so as we know that you cannot push in vscode microsoft repo without license
+->in such condition we use fork
+-> fork basically create a clone repo for your acc eg vscode repo for aryansohani acc now you can easily pull the code make changes in it and push it 
+-> in your repo (not offfical microsoft repo)
+-> these is called forking ⑂ 
+-> you just have to go vscode repo and click and fork and it will create new remote repo
 
 
