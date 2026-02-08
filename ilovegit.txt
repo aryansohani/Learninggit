@@ -33,7 +33,7 @@ we have to push the tags into remote repository
 -> git tag
 ->git tag -a v1.0 -m "hello"  (-a annotation tagging)
 -> git show v1.0
--> git push tag
+-> git push tagname
 
 what is branching?
 branching is basically a path or space where you can do experimental code without having tension of
@@ -72,5 +72,9 @@ when we make changes on remote repo and want same changes in local repo we use p
 push-> changes in local pc -> remote repo
 pull->changes in remote repo ->local pc
 
+what is git time travel?
+->basically in git you can go to previous commits and can start branching from them
+->consider you are in a situation where you have to make changes in previous better version so you start branching from that specific commit
+-> code -> git checkout commitchecksum
 
 
