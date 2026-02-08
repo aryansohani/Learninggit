@@ -98,3 +98,8 @@ what is git stash?
 -> git stash list
 ->git stash apply    ->these are 3 codes in sequence
 
+what is pull request?
+pull request is basically after forking you made few changes in the file and now you have to tell the offfical owner to acknowledge and add your changes in such 
+sitaution you can send them pull request
+just go to github pull request tab check base repo<- main repo changes and then click create new pull request
+add the message you want to send with it and send pull request 
