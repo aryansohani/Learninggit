@@ -89,3 +89,12 @@ what is git fork?
 -> you just have to go vscode repo and click and fork and it will create new remote repo
 
 
+what is git stash?
+-> consider you are working on feature1 and suddenly you have to switch to main branch but you cannot commit in feature 1 because it is not complete
+->in such condition we use git stash
+-> git stash saves the changes on the file
+
+->git stash
+-> git stash list
+->git stash apply    ->these are 3 codes in sequence
+
