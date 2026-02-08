@@ -76,5 +76,9 @@ what is git time travel?
 ->basically in git you can go to previous commits and can start branching from them
 ->consider you are in a situation where you have to make changes in previous better version so you start branching from that specific commit
 -> code -> git checkout commitchecksum
+->what happens after execution basically your head gets detached so now you have to create new branch to get back head pointer
+-> git checkout -b branchname
+-> now you can work on these branch and commit and also push to remote repo and it will be shown in the commit you made previous
+
 
 
