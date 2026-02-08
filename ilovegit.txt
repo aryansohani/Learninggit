@@ -72,5 +72,5 @@ when we make changes on remote repo and want same changes in local repo we use p
 push-> changes in local pc -> remote repo
 pull->changes in remote repo ->local pc
 
-
+->these is the new little version 
 
