@@ -41,7 +41,7 @@ existing code
 -> git checkout branchname / git switch branchname  ->used to switch branches
 -> git checkout -b branchname /git switch -b branchname -> use to create and switch to new branch
 ->git branch ->shows all available branches
--> to delete a barnch in local repo -> git branch -d branchname -> -d=delete
+-> to delete a branch in local repo -> git branch -d branchname -> -d=delete
 ->to delete a branch from github remote repo-> git push origin --delete branchname
 -> while deleting the branch you should switch to main first and then delete
 
